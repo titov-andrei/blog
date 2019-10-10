@@ -1,0 +1,12 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/titov-andrei/blog.git",
+  "author": "titov-andrei <titov_andrei@mail.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-plugin-node": "^10.0.0"
+  }
+}
